@@ -1,0 +1,5 @@
+ContentRootPath:
+WebRootPath:
+Environment.ContentRootPath:D:\Core\venetion\demo\MyWindowsService\
+Environment.WebRootPath:
+service is starting 
